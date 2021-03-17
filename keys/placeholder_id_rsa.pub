@@ -1,0 +1,4 @@
+Paste your public key here.
+* with ssh-keygen -t rsa
+
+Rename file to id_rsa.pub

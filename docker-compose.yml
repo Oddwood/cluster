@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  master:
+    build: .
+  
+  worker1:
+    build: .
+
+  worker2:
+    build: .
